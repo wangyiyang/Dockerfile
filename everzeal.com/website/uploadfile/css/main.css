@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#ctitle{position:fixed; top:0; width:100%;}
+.ui-page-theme-a .ui-bar-inherit{background-color:#C30814; text-shadow: 0 0px 0 #eee;}
+.ui-title{color:#FFF;}
+.ui-header, .ui-foote{border:none;}
+.content{padding:44px 5px 55px 5px;}
+.list{padding:0; margin:5px 0;}
+.ui-page-theme-a a:visited, html .ui-bar-a a:visited, html .ui-body-a a:visited, html body .ui-group-theme-a a:visited{color:#333;}
+.list a{text-decoration:none; color:#333;}
+.list p{margin:0;}
+.list li{list-style:none; height:128px; border-bottom:1px solid #CCC; padding:5px 0;}
+.list li img{width:127px; height:127px; float:left; margin-right:10px;}
+.list li .title{font-size:20px; font-weight:bold;}
+.list li .price{font-size:30px; color:#F00; font-weight:normal;}
+.list li .info{font-weight:normal;}
+.detailImg img{width:100%;}
+.dePrice{font-size:30px; color:#F00; border-bottom:1px solid #CCC;}
+#dBtn{display:block; width:200px; height:80px; text-align:center; line-height:80px; background:#C30814; color:#FFF; margin:20px auto; text-decoration:none; font-size:40px; border-radius:5px;}
+#back{display:block; width:; height:;}
+.list2 li{height:auto;}
+.pl20{padding-left:20px;}
+.pt50{padding-top:50px;}
+
+#login{padding-top: 20px;}
+#left{padding-left: 150px;}
+input.submit{padding-top: 20px;}
+.footer{position:fixed; bottom:0; width:100%;}
